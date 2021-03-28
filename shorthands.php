@@ -1,5 +1,5 @@
 <?php
-	// Looking at Ternary operator as well as shorthan if statements and shorthand loops
+	// Looking at Ternary operator as well as shorthand if statements and shorthand loops
 	$loggedIn = false;
 	$arr = [1, 2, 3, 4, 5];
 	/*
